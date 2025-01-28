@@ -1,0 +1,5 @@
+gwpy>=3.0.0
+matplotlib>=3.7.0
+astropy>=5.0.0
+numpy>=1.20.0
+requests
